@@ -1,12 +1,12 @@
 {
-  "name": "rxjs_boiler",
+  "name": "rxjs_typing",
   "version": "1.0.0",
-  "description": "Boilerplate for building RxJS applications",
+  "description": "rxjs",
   "main": "app.js",
   "scripts": {
     "start": "live-server --port=8000"
   },
-  "author": "Brad Traversy",
+  "author": "Lena Yu",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.14.0",
